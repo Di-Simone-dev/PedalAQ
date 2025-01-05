@@ -10,6 +10,7 @@ public class Main {
 
         NoleggiaVeicoloHandler n = new NoleggiaVeicoloHandler();
         Stallo s = new Stallo();
+
         n.visualizzaListaVeicoli(s);
     }
 }
